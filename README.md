@@ -25,3 +25,5 @@ Set these in Vercel: Project, Settings, Environment Variables. Redeploy afterwar
 | `PATCH ?id=<_id>` | Set a day's status: `{ "date": "YYYY-MM-DD", "status": "present" }`. Status is `present`, `late` or `absent` (default `present`). Safe to repeat. | Yes |
 
 Run the tests with `npm test` (no database needed).
+
+Live API: https://student-api-backend-sooty.vercel.app/api
